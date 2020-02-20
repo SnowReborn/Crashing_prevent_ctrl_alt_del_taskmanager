@@ -3,7 +3,7 @@
     Private Sub Timer1_Tick(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Timer1.Tick
         Me.Hide()
         Form2.Show()
-        MsgBox("Lagging!!! ", MsgBoxStyle.Information, "fuck")
+        MsgBox("Lagging!!! ", MsgBoxStyle.Information, "comptuer dieded")
         SendKeys.Send("{enter}")
         SendKeys.Send("123zxcvbny")
 
