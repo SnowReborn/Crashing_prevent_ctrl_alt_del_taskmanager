@@ -1,0 +1,11 @@
+C:\SnowReborn\vb stuffs\virus\LIttle bad project (little virus)\LIttle bad project (little virus)\bin\Debug\LIttle bad project (little virus).exe
+C:\SnowReborn\vb stuffs\virus\LIttle bad project (little virus)\LIttle bad project (little virus)\bin\Debug\LIttle bad project (little virus).pdb
+C:\SnowReborn\vb stuffs\virus\LIttle bad project (little virus)\LIttle bad project (little virus)\bin\Debug\LIttle bad project (little virus).xml
+C:\SnowReborn\vb stuffs\virus\LIttle bad project (little virus)\LIttle bad project (little virus)\obj\Debug\ResolveAssemblyReference.cache
+C:\SnowReborn\vb stuffs\virus\LIttle bad project (little virus)\LIttle bad project (little virus)\obj\Debug\LIttle_bad_project__little_virus_.Form1.resources
+C:\SnowReborn\vb stuffs\virus\LIttle bad project (little virus)\LIttle bad project (little virus)\obj\Debug\LIttle_bad_project__little_virus_.Form2.resources
+C:\SnowReborn\vb stuffs\virus\LIttle bad project (little virus)\LIttle bad project (little virus)\obj\Debug\LIttle_bad_project__little_virus_.Resources.resources
+C:\SnowReborn\vb stuffs\virus\LIttle bad project (little virus)\LIttle bad project (little virus)\obj\Debug\LIttle bad project (little virus).vbproj.GenerateResource.Cache
+C:\SnowReborn\vb stuffs\virus\LIttle bad project (little virus)\LIttle bad project (little virus)\obj\Debug\LIttle bad project (little virus).exe
+C:\SnowReborn\vb stuffs\virus\LIttle bad project (little virus)\LIttle bad project (little virus)\obj\Debug\LIttle bad project (little virus).xml
+C:\SnowReborn\vb stuffs\virus\LIttle bad project (little virus)\LIttle bad project (little virus)\obj\Debug\LIttle bad project (little virus).pdb
